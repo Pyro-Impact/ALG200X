@@ -75,5 +75,4 @@ int main()
     cout << lastdigitsum(Fibvec, 5) << "\n";
     //2-7
     cout << lastdigitpartial(Fibvec, 3, 7) << "\n";
-
 }
