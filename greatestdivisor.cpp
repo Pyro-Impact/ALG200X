@@ -31,7 +31,7 @@ int lcm(int a, int b)
 int main()
 {
     //2-3 
-    cout << EuclidGCD(3256855, 90568) << "\n";
+    cout << EuclidGCD(3256855, 905) << "\n";
     //2-4
     cout << lcm(358925389,2930580);
 }
